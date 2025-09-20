@@ -1,4 +1,4 @@
-#### Hi 👋, Reza Kurnia Alfiansyah. 
+#### Hi 👋, I'm Reza Kurnia Alfiansyah. 
 ##### Saya Mahasiswa Teknik Informatika.
 
 💻Saat ini saya sedang belajar pemrograman mobile:
